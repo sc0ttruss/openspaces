@@ -49,7 +49,7 @@ Each person who wants to put up a topic will do so onto the wall, but first...
 
 Each person will stand in the circle and read out their topic
 
-Topics will then be grouped into similar groupings ( affinitiy grouping )
+Topics will then be grouped into similar groupings ( affinity grouping )
 
 Dot voting - Each person gets 5 votes on what is the most popular topics
 
@@ -58,11 +58,11 @@ Choose most popular topics for 3 tracks, 3 sessions per track ( adjust for audie
 Spend 40 minutes per topic.   
 
 ## Space facilitator tasks:-
-Identify a facilitator and a notetaker for each session
+Identify a facilitator and a note-taker for each session
 
 Capture notes during the session according to the note template
 
-Initalise the space with a Re-statement of the purpose/topic.
+Initialise the space with a Re-statement of the purpose/topic.
 
 Observe the Participants and encourage participation from everyone, taking care to ask dominant people to allow
 others to speak
@@ -86,11 +86,11 @@ One sentence on what you learned today.
 
 # Suggested note taking in a group/room
 
-# <Replace me with a proper title>
+# Replace me with a proper title
 
 ## Convener
 
-Originator of the topic plus notetaker ( may be same person )
+Originator of the topic plus note-taker ( may be same person )
 
 ## Participants
 
