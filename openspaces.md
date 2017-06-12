@@ -84,9 +84,9 @@ One sentence on what you learned today.
 
 # Organiser's notes
 
-# Suggested note taking in a group/room
+Suggested note taking in a group/room template
 
-# Replace me with a proper title
+# Replace_me_with_a_proper_title
 
 ## Convener
 
@@ -101,3 +101,5 @@ emails, twitter handles, names all are OK.  Can be added at the end.
 brief highlights of what was being discussed.  Notes should be taken throughout the proceedings for edit later.
 
 ## What will we do now?  What needs to happen next?
+
+bullet points
